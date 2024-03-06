@@ -5,7 +5,7 @@ void main () {
 
   Object firstname = 'Gracia';
 
-  //you can tell the differences for those data types(var, string, object)
+  //you can tell the differences for those data types(var, string, object)?
   print (firstna ); // print string value
   int a= 23;
   int b = 78;
@@ -22,7 +22,7 @@ void main () {
   print (e); // print constante value
   print (f); //print final value
 
-  // Difference bettween constante and fianly
+  // Difference bettween constante and fianly?
 
 
 }// main method
